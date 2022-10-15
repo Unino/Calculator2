@@ -68,7 +68,7 @@
             // btTru
             // 
             this.btTru.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.btTru.Font = new System.Drawing.Font("Microsoft Sans Serif", 32F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btTru.Font = new System.Drawing.Font("Microsoft Sans Serif", 60F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btTru.ForeColor = System.Drawing.Color.Red;
             this.btTru.Location = new System.Drawing.Point(448, 324);
             this.btTru.Name = "btTru";
