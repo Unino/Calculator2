@@ -76,6 +76,7 @@
             this.btTru.TabIndex = 6;
             this.btTru.Text = "-";
             this.btTru.UseVisualStyleBackColor = true;
+            this.btTru.Click += new System.EventHandler(this.btTru_Click);
             // 
             // btKetQua
             // 
