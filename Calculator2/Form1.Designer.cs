@@ -87,6 +87,7 @@
             this.btKetQua.TabIndex = 7;
             this.btKetQua.Text = "+";
             this.btKetQua.UseVisualStyleBackColor = true;
+            this.btKetQua.Click += new System.EventHandler(this.btKetQua_Click);
             // 
             // label3
             // 
