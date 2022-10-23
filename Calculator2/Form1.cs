@@ -19,13 +19,18 @@ namespace Calculator2
 
         private void btKetQua_Click(object sender, EventArgs e)
         {
-            if (txtA.Text != String.Empty && txtB.Text != String.Empty)
-            {
-                double a = double.Parse(txtA.Text);
-                double b = double.Parse(txtB.Text);
-                double c = a + b;
-                btKetQua.Text = c.ToString(); 
-            }
+            
+            int a = int.Parse(txtA.Text);
+            int b = int.Parse(txtB.Text);
+            Calculation cal = new Calculation(a,b);
+            txtKQ.Text = cal.Execute("+").ToString();
+            //if (txtA.Text != String.Empty && txtB.Text != String.Empty)
+            //{
+            //    double a = double.Parse(txtA.Text);
+            //    double b = double.Parse(txtB.Text);
+            //    double c = a + b;
+            //    btKetQua.Text = c.ToString(); 
+            //}
         }
 
         private void btTru_Click(object sender, EventArgs e)

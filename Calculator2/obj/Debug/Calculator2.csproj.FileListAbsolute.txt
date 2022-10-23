@@ -1,1 +1,9 @@
 D:\KTPM\Calculator2\Calculator2\bin\Debug\Calculator2.exe.config
+D:\KTPM\Calculator2\Calculator2\bin\Debug\Calculator2.exe
+D:\KTPM\Calculator2\Calculator2\bin\Debug\Calculator2.pdb
+D:\KTPM\Calculator2\Calculator2\obj\Debug\Calculator2.csprojResolveAssemblyReference.cache
+D:\KTPM\Calculator2\Calculator2\obj\Debug\Calculator2.Form1.resources
+D:\KTPM\Calculator2\Calculator2\obj\Debug\Calculator2.Properties.Resources.resources
+D:\KTPM\Calculator2\Calculator2\obj\Debug\Calculator2.csproj.GenerateResource.Cache
+D:\KTPM\Calculator2\Calculator2\obj\Debug\Calculator2.exe
+D:\KTPM\Calculator2\Calculator2\obj\Debug\Calculator2.pdb
